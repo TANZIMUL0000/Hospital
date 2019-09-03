@@ -1,0 +1,13 @@
+
+import javax.swing.JFrame;
+
+public class E {
+	void simpleMessage() {
+		// TODO Auto-generated method stub
+		JFrame frame= new JFrame();
+		frame.setSize(300,300);
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		
+}
+}
+
